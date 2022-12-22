@@ -1,0 +1,11 @@
+.btn-group {
+    margin-top: 20px;
+
+    button {
+        @media screen and (max-width: 375px) {
+            padding: 10px;
+            font-size: 15px;
+            line-height: 20px;
+        }
+    }
+}

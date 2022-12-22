@@ -7,6 +7,7 @@
 
 # testing
 /coverage
+/src/index_copy.js
 
 # production
 /build
